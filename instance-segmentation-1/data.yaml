@@ -1,0 +1,13 @@
+names:
+- AI & ML - v6 2024-09-04 10:08am
+- AI - ML - v6 2024-09-04 10-08am
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: instance-segmentation-torli
+  url: https://universe.roboflow.com/new-workspace-py0jf/instance-segmentation-torli/dataset/1
+  version: 1
+  workspace: new-workspace-py0jf
+test: ../test/images
+train: instance-segmentation-1/train/images
+val: instance-segmentation-1/valid/images
